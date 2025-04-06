@@ -105,7 +105,7 @@ Generate product visuals for these styles:
 ## 📦 Installation
 ```bash
 # Clone repository
-https://github.com/yourusername/vit-clip-stable-diffusion-cv.git
+https://github.com/arozgithub/-ViT-CLIP-Stable-Diffusion-Vision-Transformer-Applications.git
 cd vit-clip-stable-diffusion-cv
 
 # Install dependencies
@@ -121,6 +121,7 @@ Ensure you have the following:
 ---
 
 ## 💡 Usage Examples
+Can make seperate file, but here only one file.
 ```bash
 # Spoof Detection
 python vit_spoof_detection.py --dataset celebA
